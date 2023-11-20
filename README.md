@@ -1,16 +1,17 @@
-# Fresh project
+# VoiceGpt
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+API whisper + chatgpt + tts
+HTML5 REACT + MICROPHONE
 
 ### Usage
 
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
+`deno task start`
 
-Then start the project:
+### deno deploy free
 
-```
-deno task start
-```
+setup your `OPEN_AI_KEY` key
 
-This will watch the project directory and restart as necessary.
+### DEMO 
+
+https://talkgpt.deno.dev/index.html
+
