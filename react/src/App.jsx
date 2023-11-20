@@ -70,8 +70,7 @@ export default class App extends React.Component {
 
   onStop(recordedBlob) {
     // const blob = new Blob([arrayBuffer], { type: "audio/wav" });
-    console.log(recordedBlob);
-    this.setState({ record: false });
+    // this.setState({ record: false });
     (async () => {
       let res = await fetch("/api/talk", {
         method: "POST",
