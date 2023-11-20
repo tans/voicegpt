@@ -1,7 +1,7 @@
 # VoiceGpt
 
-API whisper + chatgpt + tts
-HTML5 REACT + MICROPHONE
+1. API `whisper + chatgpt + tts`
+2. HTML5 `REACT + MICROPHONE`
 
 ### Usage
 
